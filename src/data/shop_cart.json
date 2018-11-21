@@ -1,0 +1,347 @@
+[
+  {
+    "shopInfo": {
+      "shopIdEsc": "1pdmd8",
+      "shopName": "甜欣家",
+      "sellerUserIdEsc": "13y2emc",
+      "isAbroadBshop": false,
+      "isExcellentShop": false,
+      "isHideShopLink": false,
+      "crossBorder": false
+    },
+    "cartItemGroup": [
+     
+      {"crossBorder": false,
+        "sku": {
+          "itemIdEsc": "1m9ibve",
+          "sellerUserIdEsc": "13y2emc",
+          "stockIdEsc": "117br4fe",
+          "stock": 991,
+          "title": "套装裙女秋冬季新款韩版女神范复古港味拼色毛衣网红针织衫高腰格子裙A字半身裙时尚减龄两件套",
+          "currency": "RMB",
+          "price": 12715,
+          "nowprice": 8900,
+          "decorate": "7折",
+          "imgUrl": "http://s11.mogucdn.com/mlcdn/c45406/181007_806j6d32e90c8lkll1gggd13k00f8_755x753.png",
+          "imgHttps": "https://s11.mogucdn.com/mlcdn/c45406/181007_806j6d32e90c8lkll1gggd13k00f8_755x753.png",
+          "futureSale": false,
+          "inValid": false,
+          "skuAttributes": [
+            {
+              "key": "颜色",
+              "value": "单红毛衣"
+            },
+            {
+              "key": "尺码",
+              "value": "M"
+            }
+          ],
+          "bondedGoods": false
+        },
+        "number": 1,
+        "disCountFee": 3815,
+        "ptp": "m1.O81Xn.0.0.YHSNx6Gj",
+        "lastUpdateTime": 1540963697,
+        "extensions": {
+          "lastAddSkuDetail": "{\"price\":8900}",
+          "ptpCnt": "m1.4XW5j.0.0.aA23Pfn7",
+          "source": "{\"ptp\":\"m1.O81Xn.0.0.YHSNx6Gj\"}",
+          "sourceMarket": ""
+        },
+        "skuImageBottomTagBlock": {},
+        "skuNumberRelatedTagBlock": {},
+        "remindRelatedTagBlock": {},
+        "titleRelatedTagBlock": {},
+        "skuPriceRelatedTagBlock": {},
+        "skuImageBottomTagList": [],
+        "skuNumberRelatedTagList": [],
+        "remindRelatedTagList": [],
+        "titleRelatedTagList": [],
+        "skuPriceRelatedTagList": [],
+        "descRelatedTagList": []
+      }
+    ],
+    "groupTypeEnum": "NORMAL",
+    "shopRelatedTagBlock": {},
+    "promotionRelatedTagBlock": {},
+    "shopRelatedTagList": [],
+    "promotionRelatedTagList": []
+  },
+  {
+    "shopInfo": {
+      "shopIdEsc": "1osyw0",
+      "shopName": "ZANA国际女装",
+      "sellerUserIdEsc": "13m8y70",
+      "isAbroadBshop": false,
+      "isExcellentShop": false,
+      "isHideShopLink": false,
+      "crossBorder": false
+    },
+    "cartItemGroup": [
+      
+      {"crossBorder": false,
+        "sku": {
+          "itemIdEsc": "1magpec",
+          "sellerUserIdEsc": "13m8y70",
+          "stockIdEsc": "117r7gfw",
+          "stock": 198,
+          "title": "2018新款韩版网红气质长袖毛衣+高腰显瘦百搭短裤俏皮小香风两件套装",
+          "currency": "RMB",
+          "price": 24143,
+          "nowprice": 14900,
+          "decorate": "拼团价",
+          "imgUrl": "http://s11.mogucdn.com/mlcdn/c45406/181026_26g3hb1k080ai0bbch11kff4l6f65_640x960.jpg",
+          "imgHttps": "https://s11.mogucdn.com/mlcdn/c45406/181026_26g3hb1k080ai0bbch11kff4l6f65_640x960.jpg",
+          "tuanType": "7",
+          "futureSale": false,
+          "inValid": false,
+          "skuAttributes": [
+            {
+              "key": "颜色",
+              "value": "两件套"
+            },
+            {
+              "key": "尺码",
+              "value": "M"
+            }
+          ],
+          "bondedGoods": false
+        },
+        "number": 1,
+        "disCountFee": 9243,
+        "ptp": "m1.O81Xn.0.0.jpmVthDt",
+        "lastUpdateTime": 1540963688,
+        "extensions": {
+          "lastAddSkuDetail": "{\"price\":14900}",
+          "ptpCnt": "m1.4XW5j.0.0.sNFWojhZ",
+          "source": "{\"ptp\":\"m1.O81Xn.0.0.jpmVthDt\"}",
+          "sourceMarket": ""
+        },
+        "skuImageBottomTagBlock": {},
+        "skuNumberRelatedTagBlock": {},
+        "remindRelatedTagBlock": {},
+        "titleRelatedTagBlock": {},
+        "skuPriceRelatedTagBlock": {
+          "skuPintuanTag": {
+            "tagNodeEnum": "SKU_PINTUAN_TAG",
+            "type": 2,
+            "image": "https://s3.mogucdn.com/mlcdn/c45406/170818_883j546lh5964hicagc652lga5g23_78x42.png",
+            "extra": {}
+          }
+        },
+        "skuImageBottomTagList": [],
+        "skuNumberRelatedTagList": [],
+        "remindRelatedTagList": [],
+        "titleRelatedTagList": [],
+        "skuPriceRelatedTagList": [
+          {
+            "tagNodeEnum": "SKU_PINTUAN_TAG",
+            "type": 2,
+            "image": "https://s3.mogucdn.com/mlcdn/c45406/170818_883j546lh5964hicagc652lga5g23_78x42.png",
+            "extra": {}
+          }
+        ],
+        "descRelatedTagList": []
+      }
+    ],
+    "groupTypeEnum": "NORMAL",
+    "shopRelatedTagBlock": {},
+    "promotionRelatedTagBlock": {},
+    "shopRelatedTagList": [],
+    "promotionRelatedTagList": []
+  },
+  {
+    "shopInfo": {
+      "shopIdEsc": "1o49gy",
+      "shopName": "宿本官方旗舰店",
+      "sellerUserIdEsc": "13etsum",
+      "isAbroadBshop": false,
+      "isExcellentShop": false,
+      "isHideShopLink": false,
+      "crossBorder": false
+    },
+    "cartItemGroup": [
+
+      {"crossBorder": false,
+        "sku": {
+          "itemIdEsc": "1m8fpb4",
+          "sellerUserIdEsc": "13etsum",
+          "stockIdEsc": "116wehum",
+          "stock": 75,
+          "title": "【宿本】2018秋冬季新款慵懒风针织开衫短款复古外套女长袖毛衣",
+          "currency": "RMB",
+          "price": 26500,
+          "nowprice": 15900,
+          "decorate": "活动价",
+          "imgUrl": "http://s3.mogucdn.com/mlcdn/c45406/180911_578de425kijk567lj3192bk8dc253_640x960.jpg",
+          "imgHttps": "https://s3.mogucdn.com/mlcdn/c45406/180911_578de425kijk567lj3192bk8dc253_640x960.jpg",
+          "futureSale": false,
+          "inValid": false,
+          "skuAttributes": [
+            {
+              "key": "颜色",
+              "value": "黄色"
+            },
+            {
+              "key": "尺码",
+              "value": "均码"
+            }
+          ],
+          "bondedGoods": false
+        },
+        "number": 2,
+        "disCountFee": 10600,
+        "ptp": "m1.__item_detail.0.0.z2HbtABF",
+        "lastUpdateTime": 1540963609,
+        "extensions": {
+          "lastAddSkuDetail": "{\"price\":15900}",
+          "ptpCnt": "m1.4XW5j.0.0.o5XPoCTK",
+          "source": "{\"ptp\":\"m1.__item_detail.0.0.z2HbtABF\"}",
+          "sourceMarket": ""
+        },
+        "skuImageBottomTagBlock": {},
+        "skuNumberRelatedTagBlock": {},
+        "remindRelatedTagBlock": {},
+        "titleRelatedTagBlock": {},
+        "skuPriceRelatedTagBlock": {},
+        "skuImageBottomTagList": [],
+        "skuNumberRelatedTagList": [],
+        "remindRelatedTagList": [],
+        "titleRelatedTagList": [],
+        "skuPriceRelatedTagList": [],
+        "descRelatedTagList": []
+      },
+      {
+        "sku": {
+          "itemIdEsc": "1kpagta",
+          "sellerUserIdEsc": "13etsum",
+          "stockIdEsc": "1wlvvnq",
+          "stock": 214,
+          "title": "宿本冬新款文艺系带连帽棉衣女中长款加厚羽绒棉服灰色面包服外套",
+          "currency": "RMB",
+          "price": 48167,
+          "nowprice": 28900,
+          "decorate": "6折",
+          "imgUrl": "http://s11.mogucdn.com/mlcdn/c45406/171214_878cg28db8b3bgcaik8525b6ecb6d_640x960.jpg",
+          "imgHttps": "https://s11.mogucdn.com/mlcdn/c45406/171214_878cg28db8b3bgcaik8525b6ecb6d_640x960.jpg",
+          "futureSale": false,
+          "inValid": false,
+          "skuAttributes": [
+            {
+              "key": "颜色",
+              "value": "灰色"
+            },
+            {
+              "key": "尺码",
+              "value": "L"
+            }
+          ],
+          "bondedGoods": false
+        },
+        "number": 1,
+        "disCountFee": 19267,
+        "ptp": "m1.5G1rqb.0.0.Ie62llIj",
+        "lastUpdateTime": 1540357731,
+        "extensions": {
+          "lastAddSkuDetail": "{\"price\":28900}",
+          "ptpCnt": "m1.4XW5j.0.0.VrBD4QIS",
+          "source": "{\"ptp\":\"m1.5G1rqb.0.0.Ie62llIj\"}",
+          "sourceMarket": ""
+        },
+        "skuImageBottomTagBlock": {},
+        "skuNumberRelatedTagBlock": {},
+        "remindRelatedTagBlock": {},
+        "titleRelatedTagBlock": {},
+        "skuPriceRelatedTagBlock": {},
+        "skuImageBottomTagList": [],
+        "skuNumberRelatedTagList": [],
+        "remindRelatedTagList": [],
+        "titleRelatedTagList": [],
+        "skuPriceRelatedTagList": [],
+        "descRelatedTagList": []
+      }
+    ],
+    "groupTypeEnum": "NORMAL",
+    "shopRelatedTagBlock": {},
+    "promotionRelatedTagBlock": {},
+    "shopRelatedTagList": [],
+    "promotionRelatedTagList": []
+  },
+  {
+    "shopInfo": {
+      "shopIdEsc": "1okp1s",
+      "shopName": "宾兽男鞋旗舰店",
+      "sellerUserIdEsc": "13ldhhi",
+      "isAbroadBshop": false,
+      "isExcellentShop": false,
+      "isHideShopLink": false,
+      "crossBorder": false
+    },
+    "cartItemGroup": [
+
+      {"crossBorder": false,
+        "sku": {
+          "itemIdEsc": "1k6b1qq",
+          "sellerUserIdEsc": "13ldhhi",
+          "stockIdEsc": "117dn13o",
+          "stock": 100,
+          "title": "宾兽韩版新款男士鞋子潮流百搭男鞋潮运动鞋男耐磨学生休闲鞋子男",
+          "currency": "RMB",
+          "price": 14280,
+          "nowprice": 9996,
+          "decorate": "抢购价",
+          "imgUrl": "http://s11.mogucdn.com/mlcdn/c45406/181009_3bcia38757hhkf4554cclh0lllbg0_800x800.jpg",
+          "imgHttps": "https://s11.mogucdn.com/mlcdn/c45406/181009_3bcia38757hhkf4554cclh0lllbg0_800x800.jpg",
+          "futureSale": false,
+          "inValid": false,
+          "skuAttributes": [
+            {
+              "key": "颜色",
+              "value": "1903黑白"
+            },
+            {
+              "key": "尺码",
+              "value": "43"
+            }
+          ],
+          "bondedGoods": false
+        },
+        "number": 1,
+        "disCountFee": 4284,
+        "ptp": "m1.4eHKP.0.0.96csyOik",
+        "lastUpdateTime": 1540357750,
+        "extensions": {
+          "lastAddSkuDetail": "{\"price\":9996}",
+          "ptpCnt": "m1.4XW5j.0.0.hpSGL3XB",
+          "source": "{\"ptp\":\"m1.4eHKP.0.0.96csyOik\"}",
+          "sourceMarket": ""
+        },
+        "skuImageBottomTagBlock": {},
+        "skuNumberRelatedTagBlock": {},
+        "remindRelatedTagBlock": {},
+        "titleRelatedTagBlock": {},
+        "skuPriceRelatedTagBlock": {},
+        "skuImageBottomTagList": [],
+        "skuNumberRelatedTagList": [],
+        "remindRelatedTagList": [],
+        "titleRelatedTagList": [],
+        "skuPriceRelatedTagList": [],
+        "descRelatedTagList": [
+          {
+            "tagNodeEnum": "SKU_FAHUO_TAG",
+            "type": 1,
+            "text": "最晚11月8日发货",
+            "bgColor": "#FFE6E8",
+            "textColor": "#FF5777",
+            "extra": {}
+          }
+        ]
+      }
+    ],
+    "groupTypeEnum": "NORMAL",
+    "shopRelatedTagBlock": {},
+    "promotionRelatedTagBlock": {},
+    "shopRelatedTagList": [],
+    "promotionRelatedTagList": []
+  }
+]

@@ -1,0 +1,113 @@
+
+  {
+    "stageList": [],
+    "totalPrice": 9996,
+    "shopName": "宾兽男鞋旗舰店",
+    "shopLogoUrl": "http://s11.mogucdn.com/p1/150901/1soqpz_ieyteztegy3gczrvgmzdambqmeyde_200x200.jpg",
+    "buyerComment": "",
+    "operationList": [
+      {
+        "operationName": "chooseShopPromotion"
+      },
+      {
+        "operationName": "chooseExpress"
+      },
+      {
+        "operationName": "openPrivateMsg"
+      },
+      {
+        "operationName": "addComment"
+      }
+    ],
+    "shopLogoUrlHttps": "https://s11.mogucdn.com/p1/150901/1soqpz_ieyteztegy3gczrvgmzdambqmeyde_200x200.jpg",
+    "shopIdEsc": "1okp1s",
+    "shopId": 20638156,
+    "logisticsList": [],
+    "skuGroupList": [
+      {
+        "skuIdEsc": "117dn13o",
+        "imgUrlHttps": "https://s11.mogucdn.com/mlcdn/c45406/181009_3bcia38757hhkf4554cclh0lllbg0_800x800.jpg",
+        "skuNowPrice": 9996,
+        "delayedDeliveryTime": "11月8日",
+        "totalPrice": 9996,
+        "cannotBuyReasonResDTOs": [],
+        "skuPrice": 14280,
+        "bondedGoods": false,
+        "inventory": 100,
+        "title": "宾兽韩版新款男士鞋子潮流百搭男鞋潮运动鞋男耐磨学生休闲鞋子男",
+        "operationList": [
+          {
+            "operationName": "modifySkuQuantity"
+          },
+          {
+            "operationName": "chooseSkuPromotion"
+          }
+        ],
+        "currency": "RMB",
+        "skuId": 1311477518,
+        "quantity": 1,
+        "itemIdEsc": "1k6b1qq",
+        "imgUrl": "http://s11.mogucdn.com/mlcdn/c45406/181009_3bcia38757hhkf4554cclh0lllbg0_800x800.jpg",
+        "itemId": 609958317,
+        "selectedPromotionList": [
+          {
+            "promotionKey": "discount_700014244273",
+            "discountFee": 4284,
+            "promotionDesc": "限量促销"
+          }
+        ],
+        "extensions": {
+          "goodsNo": "仓库雷涛1903黑白43",
+          "itemTags": "16,1636,1525,166,72,206",
+          "freight": "true",
+          "ptpCnt": "m1.4XW5j.0.0.hpSGL3XB",
+          "itemReturnService": "true",
+          "uddt": "1541692799",
+          "itemCid": "#682# #869# #4157#",
+          "ptp": "m1.4eHKP.0.0.96csyOik",
+          "marketType": "market_mogujie",
+          "categoryType": "0",
+          "shopinfo": "{\"tagList\":\"[\\\"FASHION_TAG\\\",\\\"NEW_BRAND_TAG\\\",\\\"TAG_COMMISSION\\\"]\",\"shopType\":\"1\",\"startLevel\":\"4\",\"isAuthShop\":\"1\"}",
+          "itemId": "609958317",
+          "nddt": "634725",
+          "ddt": "11月8日",
+          "skuId": "1311477518"
+        },
+        "insureGood": false,
+        "haigou": false,
+        "promotionList": [
+          {
+            "promotionKey": "discount_700014244273",
+            "discountFee": 4284,
+            "promotionDesc": "限量促销"
+          },
+          {
+            "promotionKey": "empty_0_0",
+            "promotionDesc": "不使用优惠"
+          }
+        ],
+        "skuAttrList": [
+          {
+            "attributeValue": "1903黑白",
+            "attributeKey": "颜色"
+          },
+          {
+            "attributeValue": "43",
+            "attributeKey": "尺码"
+          }
+        ]
+      }
+    ],
+    "sellerUserId": 108649799,
+    "tagList": [],
+    "selectedPromotionList": [],
+    "extensions": {
+      "sharerId": "",
+      "merchantId": "2",
+      "orderFrom": "cart"
+    },
+    "selectedLogistics": {},
+    "sellerUserIdEsc": "13ldhhi",
+    "promotionList": [],
+    "shopKey": "108649799"
+  }

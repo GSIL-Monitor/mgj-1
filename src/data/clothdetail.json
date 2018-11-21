@@ -1,0 +1,596 @@
+{
+  "status": {
+    "code": 1001,
+    "msg": ""
+  },
+  "result": {
+    "userInfo": {
+      "userId": "14qkz2w",
+      "isLogin": false,
+      "isSelf": false,
+      "admin": false,
+      "shopId": "1quxv2",
+      "sellerId": "14qkz2w"
+    },
+    "rateInfo": {
+      "cRate": 0,
+      "imgTotal": 0,
+      "sales": 13
+    },
+    "itemInfo": {
+      "desc": "字母流苏慵懒风甜美小清新网红毛衣套头女韩版秋装新款针织衫上衣",
+      "title": "字母流苏慵懒风甜美小清新网红毛衣套头女韩版秋装新款针织衫上衣",
+      "itemId": "1m9g6to",
+      "isFaved": false,
+      "isShareIntegral": true,
+      "cFav": 0,
+      "state": 0,
+      "saleStartTime": 0,
+      "saleType": 0,
+      "seo": {
+        "keywords": "字母流苏慵懒风甜美小清新网红毛衣套头女韩版秋装新款针织衫上衣",
+        "wap_url": "//m.mogujie.com/x6/detail/1m9g6to",
+        "description": "来自蘑菇街优店上装_女装_服饰鞋包_毛衣家字母流苏慵懒风甜美小清新网红毛衣套头女韩版秋装新款针织衫上衣的字母流苏慵懒风甜美小清新网红毛衣套头女韩版秋装新款针织衫上衣，发现当季女装和兰丝草搭配心得。",
+        "alternate": "//m.mogujie.com/x6/detail/1m9g6to",
+        "links": "null",
+        "canonical": "//shop.mogujie.com/detail/1m9g6to",
+        "seo_noindex": "0",
+        "title": "【字母流苏慵懒风甜美小清新网红毛衣套头女韩版秋装新款针织衫上衣】-女装-上装_女装_服饰鞋包_毛衣-兰丝草-蘑菇街优店"
+      },
+      "type": 8,
+      "priceChannel": 0,
+      "virtualItemType": 0,
+      "isMedicalBeautyItem": false,
+      "isMedicalBeautyVirtualItem": false,
+      "isVirtualItem": false,
+      "isJdItem": false,
+      "canApplyInstallment": false,
+      "lowPrice": "164.29",
+      "highPrice": "164.29",
+      "lowNowPrice": "115.00",
+      "highNowPrice": "115.00",
+      "nowTime": 1540645083
+    },
+    "priceInfo": {
+      "nowPrice": "109.00",
+      "oldPrice": "164.29",
+      "highNowPrice": "",
+      "priceSplit": "~",
+      "currency": "¥",
+      "priceColor": "#333333",
+      "priceTags": [
+        {
+          "text": "拼团价",
+          "bgColor": "#FFE8EE",
+          "textColor": "#FF2255"
+        }
+      ],
+      "prePriceTag": {
+        "bgColor": "#FFE8EE",
+        "textColor": "#FF2255"
+      },
+      "eventPrice": "",
+      "eventPriceDesc": {
+        "bgColor": "#FFE8EE",
+        "textColor": "#FF2255"
+      },
+      "eventPriceColor": "#FF2255",
+      "eventTags": [],
+      "mobilePrice": "",
+      "mobileDownloadLink": "",
+      "eventDesc": "",
+      "extraDesc": ""
+    },
+    "diamondInfo": {
+      "diamondPrice": "115.00",
+      "normalPrice": "115.00",
+      "state": 3,
+      "currency": "¥",
+      "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+      "priceTitle": "限时优惠",
+      "arrowTitle": "豪华黄钻专享价"
+    },
+    "normalCountdown": {
+      "businessType": "",
+      "isWarmUp": false,
+      "nowTime": 1540645083,
+      "countdown": 0,
+      "image": "",
+      "titleColor": "#FFFFFF",
+      "priceColor": "#FFFFFF",
+      "activityBanner": "",
+      "titleIcon": "",
+      "text": "",
+      "isCountdomShow": true,
+      "isPriceShow": false
+    },
+    "pintuanInfo": {
+      "tuanType": 7,
+      "isSystem": false,
+      "tuanNum": 2,
+      "isNew": false,
+      "countdown": 8305316,
+      "startTime": 1533571200,
+      "endTime": 1548950399,
+      "successTuanNum": 0,
+      "isExpire": false,
+      "joinTuanList": [
+        {
+          "nick": "玉喋***儿",
+          "avatar": "https://s2.mogucdn.com/mlcdn/c45406/170629_0123c0i22jdajg8k1h9087i9h00bj_720x1280.jpg",
+          "time": 12539,
+          "remainNum": 1,
+          "link": "//h5.mogujie.com/pintuan-share/index.html?extra=eyJhY3Rpdml0eUlkIjoiMWE3ZGs3dyIsIm1hcmtldCI6Ik1HSiIsInZpcnR1YWxMaXN0IjpbNTE3MF0sIndhdGNoVGltZSI6MTU0MDY0NTA4M30&itemId=1m9g6to&businessId=1a7dk7w"
+        },
+        {
+          "nick": "马喜***藻",
+          "avatar": "https://s2.mogucdn.com/mlcdn/c45406/170629_5hie48lj9ll533825k1a7b7bie4ld_1080x1920.jpg",
+          "time": 25392,
+          "remainNum": 1,
+          "link": "//h5.mogujie.com/pintuan-share/index.html?extra=eyJhY3Rpdml0eUlkIjoiMWE3ZGs3dyIsIm1hcmtldCI6Ik1HSiIsInZpcnR1YWxMaXN0IjpbNzU3N10sIndhdGNoVGltZSI6MTU0MDY0NTA4M30&itemId=1m9g6to&businessId=1a7dk7w"
+        }
+      ],
+      "skuInfo": {
+        "title": "字母流苏慵懒风甜美小清新网红毛衣套头女韩版秋装新款针织衫上衣",
+        "skus": [
+          {
+            "stockId": "117aqa8g",
+            "xdSkuId": "117aqa8g",
+            "price": 16429,
+            "nowprice": 10900,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/181005_7i6b6cg0304b7g7g0c0825ifb3f17_640x960.jpg",
+            "currency": "¥",
+            "stock": 57,
+            "style": "米白色",
+            "size": "均码",
+            "styleId": 1,
+            "sizeId": 100
+          },
+          {
+            "stockId": "117aqa8i",
+            "xdSkuId": "117aqa8i",
+            "price": 16429,
+            "nowprice": 10900,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/181005_6b637ci341k3ljb7260627964j8jg_640x960.jpg",
+            "currency": "¥",
+            "stock": 58,
+            "style": "粉红色",
+            "size": "均码",
+            "styleId": 2,
+            "sizeId": 100
+          },
+          {
+            "stockId": "117aqa8e",
+            "xdSkuId": "117aqa8e",
+            "price": 16429,
+            "nowprice": 10900,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/181005_39eaj89743ja65jeb30b25alf64l6_640x960.jpg",
+            "currency": "¥",
+            "stock": 53,
+            "style": "蓝色",
+            "size": "均码",
+            "styleId": 3,
+            "sizeId": 100
+          }
+        ],
+        "props": [
+          {
+            "label": "颜色",
+            "list": [
+              {
+                "type": "style",
+                "name": "米白色",
+                "isDefault": false,
+                "styleId": 1,
+                "index": 1
+              },
+              {
+                "type": "style",
+                "name": "粉红色",
+                "isDefault": false,
+                "styleId": 2,
+                "index": 2
+              },
+              {
+                "type": "style",
+                "name": "蓝色",
+                "isDefault": false,
+                "styleId": 3,
+                "index": 3
+              }
+            ],
+            "isDefault": false
+          },
+          {
+            "label": "尺码",
+            "list": [
+              {
+                "type": "size",
+                "name": "均码",
+                "isDefault": false,
+                "sizeId": 100,
+                "index": 100
+              }
+            ],
+            "isDefault": false
+          }
+        ],
+        "styleKey": "颜色",
+        "sizeKey": "尺码",
+        "priceRange": "¥109.00",
+        "defaultPrice": "¥109.00",
+        "totalStock": 168,
+        "canInstallment": false,
+        "highNowPrice": "109.00",
+        "lowNowPrice": "109.00"
+      },
+      "tips": "距结束仅剩：",
+      "normalPrice": "115.00",
+      "pintuanPrice": "109.00",
+      "state": 5,
+      "currency": "¥",
+      "outType": 5,
+      "activityId": "1a7dk7w"
+    },
+    "shopInfo": {
+      "score": [
+        {
+          "name": "描述相符",
+          "score": 4.74,
+          "isBetter": true
+        },
+        {
+          "name": "质量满意",
+          "score": 4.74,
+          "isBetter": true
+        }
+      ],
+      "services": [
+        {
+          "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+          "name": "7天无理由退货",
+          "link": "https://www.mogujie.com/rule/mogu?categoryId=326&ruleId=892",
+          "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+        },
+        {
+          "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+          "name": "72小时发货",
+          "link": "https://www.mogujie.com/rule/mogu?categoryId=326&ruleId=893",
+          "desc": ""
+        },
+        {
+          "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+          "name": "退货补运费",
+          "link": "https://www.mogujie.com/rule/mogu?categoryId=326&ruleId=927",
+          "desc": ""
+        }
+      ],
+      "categories": [
+        {
+          "name": "套头毛衣/针织衫",
+          "link": "http://shop.mogujie.com/1quxv2/list/index?categoryId=1502887"
+        },
+        {
+          "name": "毛衣开衫外套",
+          "link": "http://shop.mogujie.com/1quxv2/list/index?categoryId=1502888"
+        },
+        {
+          "name": "时尚套装/连衣裙",
+          "link": "http://shop.mogujie.com/1quxv2/list/index?categoryId=20051183"
+        },
+        {
+          "name": "马甲/背心",
+          "link": "http://shop.mogujie.com/1quxv2/list/index?categoryId=20051617"
+        },
+        {
+          "name": "半身裙/休闲裤",
+          "link": "http://shop.mogujie.com/1quxv2/list/index?categoryId=20089958"
+        },
+        {
+          "name": "薄款防晒衣/T恤",
+          "link": "http://shop.mogujie.com/1quxv2/list/index?categoryId=20225675"
+        }
+      ],
+      "cFans": "11748",
+      "cSells": "14217",
+      "isMarked": false,
+      "cGoods": 0,
+      "userId": "14qkz2w",
+      "shopLogo": "https://s11.mogucdn.com/p2/160919/2dahio_1j0609ekhl0ahfaj1gd7704e2fbbb_200x200.jpg",
+      "name": "兰丝草",
+      "shopId": "1quxv2",
+      "type": 1,
+      "level": 3,
+      "shopUrl": "//m.mogujie.com/v8/meili/shop?shopid=1quxv2",
+      "isLiangPin": false
+    },
+    "preSaleInfo": "",
+    "detailInfo": {
+      "splitDetailImage": true,
+      "desc": "字母流苏慵懒风甜美小清新网红毛衣套头女韩版秋装新款针织衫上衣",
+      "detailImage": [
+        {
+          "desc": "",
+          "key": "穿着效果",
+          "anchor": "model_img",
+          "list": [
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_5i0629629i992l82i6k73fglldefc_800x800.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_3lea5fgbajba30giah7hcbejlk998_800x800.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_4cjflb52efae83ikja1gj88e736de_750x1468.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_54id136h91h54b5c74ah061816i4g_750x503.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_4li73c1488i2lcchcfc0e410ecgff_750x1490.jpg",
+            "https://s5.mogucdn.com/mlcdn/c45406/181005_2jj1eij8flbed3j3i53j49d3866l7_750x1478.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_2bjb04lij31i89g525gbff8gg9dl9_750x1474.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_7l73hd711bjell1d39a657ak3be0k_750x1460.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_7cl84e97bc9jfj71dgdijed411g3g_750x1480.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_522ja02382il771ki6h8edifh570l_750x1480.jpg",
+            "https://s3.mogucdn.com/mlcdn/c45406/181005_46dh367l283kfaj02g81b9jjk5ag8_750x1486.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_08b150e2c848b7dd32idea38ehl3e_750x1474.jpg",
+            "https://s3.mogucdn.com/mlcdn/c45406/181005_42022bgl5dai000ie21kgl3dj0hld_750x1460.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_41addg4j8ih50ad333jf3ai1h1bj2_750x1478.jpg",
+            "https://s3.mogucdn.com/mlcdn/c45406/181005_82cj07634hka2i5db7ceg9i66hcb8_750x1468.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_022l3k91h29k0627ei4814789e46e_750x1476.jpg",
+            "https://s3.mogucdn.com/mlcdn/c45406/181005_74leld8dkh1b9aie32hkcg3j2c23a_750x1474.jpg",
+            "https://s5.mogucdn.com/mlcdn/c45406/181005_3gh48f91e354e8aejleif7h2075ac_750x1470.jpg",
+            "https://s3.mogucdn.com/mlcdn/c45406/181005_7liiac37cl3c730cekj5e3g6e9jc7_750x1442.jpg"
+          ]
+        },
+        {
+          "desc": "",
+          "key": "整体款式",
+          "anchor": "baipai_img2",
+          "list": [
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_6l6da76a8864lk20ddh3kchllb91f_800x800.jpg",
+            "https://s11.mogucdn.com/mlcdn/c45406/181005_5a9985d34k038cg6lbblc2efj4e3g_800x800.jpg",
+            "https://s3.mogucdn.com/mlcdn/c45406/181005_67d339f1b5420helek01c0ddjcabj_800x800.jpg"
+          ]
+        },
+        {
+          "desc": "",
+          "key": "细节做工",
+          "anchor": "detail_img",
+          "list": [
+            "https://s5.mogucdn.com/mlcdn/c45406/181005_0k3ch80hh8c357227e705ealh7124_750x873.jpg",
+            "https://s11.mogucdn.com/p2/170317/77101615_6f3ak83kkl00329ged9249aa93ifb_1125x285.jpg"
+          ]
+        }
+      ]
+    },
+    "countdownInfo": {
+      "businessType": "NORMAL",
+      "isWarmUp": false,
+      "nowTime": 1540645083,
+      "countdown": 0,
+      "image": "",
+      "titleColor": "#FFFFFF",
+      "priceColor": "#FFFFFF",
+      "activityBanner": "",
+      "titleIcon": "",
+      "text": "",
+      "isCountdomShow": true,
+      "isPriceShow": false
+    },
+    "topImages": [
+      "https://s11.mogucdn.com/mlcdn/c45406/181005_6535gcb5a2hlcji40lcd538h835c0_640x960.jpg",
+      "https://s11.mogucdn.com/mlcdn/c45406/181005_6e47gkehgfkcai33k43bde2819512_640x960.jpg",
+      "https://s11.mogucdn.com/mlcdn/c45406/181005_3l345b2g325eflf8b5fb7b1j3aib2_640x960.jpg",
+      "https://s11.mogucdn.com/mlcdn/c45406/181005_2ji9cd33c4j1hg3b1k7iaib2iiei3_640x960.jpg",
+      "https://s5.mogucdn.com/mlcdn/c45406/181005_1al8ifjb05g1i1981f5465gj9k6bd_640x960.jpg"
+    ],
+    "normalShareInfo": {
+      "title": "字母流苏慵懒风甜美小清新网红毛衣套头女韩版秋装新款针织衫上衣",
+      "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+      "url": "//h5.mogujie.com/detail-normal/index.html?itemId=1m9g6to&from=share",
+      "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/181005_6535gcb5a2hlcji40lcd538h835c0_640x960.jpg"
+    },
+    "itemParams": {
+      "info": {
+        "set": {
+          "厚薄": "加厚",
+          "颜色": "蓝色,米白色,粉红色",
+          "尺码": "均码",
+          "衣长": "常规款（51-65cm）",
+          "版型": "宽松",
+          "季节": "秋冬",
+          "材质": "针织",
+          "领型": "圆领",
+          "袖长": "长袖",
+          "风格": "甜美"
+        },
+        "key": "产品参数",
+        "anchor": "product_info"
+      },
+      "rule": {
+        "tables": [
+          [
+            [
+              "尺码",
+              "肩宽",
+              "衣长",
+              "胸围",
+              "袖长"
+            ],
+            [
+              "均码",
+              "63",
+              "64",
+              "116",
+              "47"
+            ]
+          ]
+        ],
+        "key": "尺码说明",
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+      }
+    },
+    "normalPrice": {
+      "nowPrice": "109.00",
+      "oldPrice": "164.29",
+      "highNowPrice": "",
+      "priceSplit": "~",
+      "currency": "¥",
+      "priceColor": "#333333",
+      "priceTags": [
+        {
+          "text": "拼团价",
+          "bgColor": "#FFE8EE",
+          "textColor": "#FF2255"
+        }
+      ],
+      "prePriceTag": {
+        "bgColor": "#FFE8EE",
+        "textColor": "#FF2255"
+      },
+      "eventPrice": "",
+      "eventPriceDesc": {
+        "bgColor": "#FFE8EE",
+        "textColor": "#FF2255"
+      },
+      "eventPriceColor": "#FF2255",
+      "eventTags": [],
+      "mobilePrice": "",
+      "mobileDownloadLink": "",
+      "eventDesc": "",
+      "extraDesc": ""
+    },
+    "itemServices": {
+      "services": [
+        {
+          "name": "72小时发货",
+          "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+          "content": "",
+          "link": "https://www.mogujie.com/rule/mogu?categoryId=326&ruleId=893"
+        },
+        {
+          "name": "7天无理由退货",
+          "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+          "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+          "link": "https://www.mogujie.com/rule/mogu?categoryId=326&ruleId=892"
+        },
+        {
+          "name": "退货补运费",
+          "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+          "content": "",
+          "link": "https://www.mogujie.com/rule/mogu?categoryId=326&ruleId=927"
+        },
+        {
+          "name": "白付美分期购",
+          "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+          "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+        }
+      ],
+      "columns": [
+        {
+          "name": "sales",
+          "desc": "销量 13",
+          "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+        },
+        {
+          "name": "express",
+          "desc": "免邮费",
+          "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+        },
+        {
+          "name": "address",
+          "desc": "浙江省嘉兴市",
+          "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+        }
+      ]
+    },
+    "skuInfo": {
+      "title": "字母流苏慵懒风甜美小清新网红毛衣套头女韩版秋装新款针织衫上衣",
+      "skus": [
+        {
+          "stockId": "117aqa8g",
+          "xdSkuId": "117aqa8g",
+          "price": 16429,
+          "nowprice": 11500,
+          "img": "https://s11.mogucdn.com/mlcdn/c45406/181005_7i6b6cg0304b7g7g0c0825ifb3f17_640x960.jpg",
+          "currency": "¥",
+          "stock": 57,
+          "style": "米白色",
+          "size": "均码",
+          "styleId": 1,
+          "sizeId": 100
+        },
+        {
+          "stockId": "117aqa8i",
+          "xdSkuId": "117aqa8i",
+          "price": 16429,
+          "nowprice": 11500,
+          "img": "https://s11.mogucdn.com/mlcdn/c45406/181005_6b637ci341k3ljb7260627964j8jg_640x960.jpg",
+          "currency": "¥",
+          "stock": 58,
+          "style": "粉红色",
+          "size": "均码",
+          "styleId": 2,
+          "sizeId": 100
+        },
+        {
+          "stockId": "117aqa8e",
+          "xdSkuId": "117aqa8e",
+          "price": 16429,
+          "nowprice": 11500,
+          "img": "https://s11.mogucdn.com/mlcdn/c45406/181005_39eaj89743ja65jeb30b25alf64l6_640x960.jpg",
+          "currency": "¥",
+          "stock": 53,
+          "style": "蓝色",
+          "size": "均码",
+          "styleId": 3,
+          "sizeId": 100
+        }
+      ],
+      "props": [
+        {
+          "label": "颜色",
+          "list": [
+            {
+              "type": "style",
+              "name": "米白色",
+              "isDefault": false,
+              "styleId": 1,
+              "index": 1
+            },
+            {
+              "type": "style",
+              "name": "粉红色",
+              "isDefault": false,
+              "styleId": 2,
+              "index": 2
+            },
+            {
+              "type": "style",
+              "name": "蓝色",
+              "isDefault": false,
+              "styleId": 3,
+              "index": 3
+            }
+          ],
+          "isDefault": false
+        },
+        {
+          "label": "尺码",
+          "list": [
+            {
+              "type": "size",
+              "name": "均码",
+              "isDefault": false,
+              "sizeId": 100,
+              "index": 100
+            }
+          ],
+          "isDefault": false
+        }
+      ],
+      "styleKey": "颜色",
+      "sizeKey": "尺码",
+      "priceRange": "¥115.00",
+      "defaultPrice": "¥115.00",
+      "totalStock": 168,
+      "canInstallment": false,
+      "addressInfo": {},
+      "isJdItem": false
+    }
+  }
+}
